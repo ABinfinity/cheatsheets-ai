@@ -9,3 +9,4 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - Scikit-learn
   - Matplotlib
   - Deep Learning Cheat Sheet
+  - And many more..
